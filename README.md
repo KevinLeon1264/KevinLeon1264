@@ -31,7 +31,7 @@
 </body>
 </html>
 
- #pagina
+ # pagina
  <!DOCTYPE html>
 <!-- Define el tipo de documento como HTML5 -->
 <html lang="es">
